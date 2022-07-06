@@ -1,0 +1,8 @@
+#completed {
+   background-color: green;
+   color: white;
+}
+#pending{
+    background-color: red;
+    color: white;
+}
